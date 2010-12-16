@@ -1,0 +1,276 @@
+// !$*UTF8*$!
+{
+	256AC3F00F4B6AF500CF3369 /* AdiumSpammer_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 150}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 155}";
+			sepNavWindowFrame = "{{0, 52}, {1280, 725}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6F13834911AF32C700FEF6E4 /* AdiumSpammer */;
+		activeSDKPreference = macosx10.5;
+		activeTarget = 8D1107260486CEB800E47090 /* AdiumSpammer */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* AdiumSpammer */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 6F13835A11AF32D000FEF6E4 /* Code sense */;
+		executables = (
+			6F13834911AF32C700FEF6E4 /* AdiumSpammer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					644,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					834,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					794,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314203564;
+			PBXWorkspaceStateSaveDate = 314203564;
+		};
+		perUserProjectItems = {
+			6F6E0B1D11E3C4D3005AB3C4 /* PBXTextBookmark */ = 6F6E0B1D11E3C4D3005AB3C4 /* PBXTextBookmark */;
+			6F90452612BA670C004F4E96 /* PBXTextBookmark */ = 6F90452612BA670C004F4E96 /* PBXTextBookmark */;
+			6F90452712BA670C004F4E96 /* PBXTextBookmark */ = 6F90452712BA670C004F4E96 /* PBXTextBookmark */;
+			6F90452812BA670C004F4E96 /* PBXTextBookmark */ = 6F90452812BA670C004F4E96 /* PBXTextBookmark */;
+			6F90452912BA670C004F4E96 /* PlistBookmark */ = 6F90452912BA670C004F4E96 /* PlistBookmark */;
+			6F90455E12BA67B5004F4E96 /* PlistBookmark */ = 6F90455E12BA67B5004F4E96 /* PlistBookmark */;
+			6F90455F12BA67B5004F4E96 /* PBXTextBookmark */ = 6F90455F12BA67B5004F4E96 /* PBXTextBookmark */;
+			6FCA72D311B7127F00235623 /* PBXTextBookmark */ = 6FCA72D311B7127F00235623 /* PBXTextBookmark */;
+			6FCA730D11B717A400235623 /* PBXTextBookmark */ = 6FCA730D11B717A400235623 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6F13835911AF32D000FEF6E4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 195}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 193}";
+		};
+	};
+	6F13834911AF32C700FEF6E4 /* AdiumSpammer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AdiumSpammer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	6F13835911AF32D000FEF6E4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6F13835A11AF32D000FEF6E4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6F13835C11AF346D00FEF6E4 /* SpamController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 583}}";
+			sepNavSelRange = "{693, 0}";
+			sepNavVisRange = "{0, 801}";
+			sepNavWindowFrame = "{{0, 67}, {1280, 711}}";
+		};
+	};
+	6F13835D11AF346D00FEF6E4 /* SpamController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 1287}}";
+			sepNavSelRange = "{2309, 0}";
+			sepNavVisRange = "{0, 972}";
+			sepNavWindowFrame = "{{0, 67}, {1280, 711}}";
+		};
+	};
+	6F6E0B1D11E3C4D3005AB3C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6F13835C11AF346D00FEF6E4 /* SpamController.h */;
+		name = "SpamController.h: 26";
+		rLen = 0;
+		rLoc = 693;
+		rType = 0;
+		vrLen = 622;
+		vrLoc = 0;
+	};
+	6F90452612BA670C004F4E96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6F13835D11AF346D00FEF6E4 /* SpamController.m */;
+		name = "SpamController.m: 83";
+		rLen = 0;
+		rLoc = 2309;
+		rType = 0;
+		vrLen = 309;
+		vrLoc = 1083;
+	};
+	6F90452712BA670C004F4E96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* AdiumSpammer_Prefix.pch */;
+		name = "AdiumSpammer_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 155;
+		vrLoc = 0;
+	};
+	6F90452812BA670C004F4E96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 193;
+		vrLoc = 0;
+	};
+	6F90452912BA670C004F4E96 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AdiumSpammer-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundlePackageType,
+		);
+		name = "/Users/MegaEduX/Coding/Mac Apps/AdiumSpammer/AdiumSpammer-Info.plist";
+		rLen = 0;
+		rLoc = 0;
+	};
+	6F90455E12BA67B5004F4E96 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AdiumSpammer-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/MegaEduX/Coding/Mac Apps/AdiumSpammer/AdiumSpammer-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	6F90455F12BA67B5004F4E96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6F13835C11AF346D00FEF6E4 /* SpamController.h */;
+		name = "SpamController.h: 32";
+		rLen = 0;
+		rLoc = 693;
+		rType = 0;
+		vrLen = 801;
+		vrLoc = 0;
+	};
+	6FCA72D311B7127F00235623 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6F13835C11AF346D00FEF6E4 /* SpamController.h */;
+		name = "SpamController.h: 23";
+		rLen = 0;
+		rLoc = 794;
+		rType = 0;
+		vrLen = 313;
+		vrLoc = 139;
+	};
+	6FCA730D11B717A400235623 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6F13835D11AF346D00FEF6E4 /* SpamController.m */;
+		name = "SpamController.m: 66";
+		rLen = 0;
+		rLoc = 2309;
+		rType = 0;
+		vrLen = 1676;
+		vrLoc = 705;
+	};
+	8D1107260486CEB800E47090 /* AdiumSpammer */ = {
+		activeExec = 0;
+		executables = (
+			6F13834911AF32C700FEF6E4 /* AdiumSpammer */,
+		);
+	};
+	8D1107310486CEB800E47090 /* AdiumSpammer-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{0, 58}, {1280, 715}}";
+		};
+	};
+}
